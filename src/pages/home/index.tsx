@@ -57,7 +57,9 @@ export const Home = (): JSX.Element => {
               </Text>{" "}
               projects
             </Text>
-            <Text type="body1" color="grey2">
+            <Text type="body1" color="grey2">My relationship with technology started with free classes and content on YouTube. Consuming this content, I started to enjoy solving problems, but because I found the content not so deep and I was disorganized, I looked for a training course in the area. At that moment I got to know Kenzie Academy and joined the Full Stack Web Development course, where it helped me improve my skills. I currently have strong knowledge in front-end development and deepening myself in the back-end.
+              <br/>
+              <br/>
               Discover here in this environment, created especially for you, all
               my projects and technologies
             </Text>
